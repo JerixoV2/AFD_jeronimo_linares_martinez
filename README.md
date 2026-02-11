@@ -28,7 +28,7 @@ Desde la terminal, en la carpeta donde está el archivo `AFD.py`, ejecutar:
 python AFD.py entrada.txt
 ```
 
-📌 Donde:
+ Donde:
 - `AFD.py` es el programa
 - `entrada.txt` es el archivo con las cadenas
 
@@ -53,7 +53,7 @@ El archivo debe tener una cadena por línea, por ejemplo:
 
 ---
 
-## 🖥️ Salida del programa
+## Salida del programa
 
 El programa imprime únicamente:
 
